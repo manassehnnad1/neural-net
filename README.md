@@ -1,4 +1,4 @@
-uhm...no biggie, made this to understand the various layers on a neural network, the code is broken but im going to fix it soon.
+uhm...no biggie, made this to understand the various layers on a neural network.
 
 the input layer(for insertion) ---- hidden layer (with activation function for non-linearity)-----the output layer for predictions
 
